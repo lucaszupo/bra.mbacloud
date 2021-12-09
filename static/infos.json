@@ -1,0 +1,137 @@
+[
+
+    {
+ 
+        "integrante": 1,
+ 
+        "estado": "SP",
+ 
+        "idade" : 24,
+ 
+        "pet" : "true",
+ 
+        "music": [
+ 
+            {"name":"Anos Luz", "estilo": "TRAP"}
+            
+ 
+        ]
+ 
+    },
+
+
+    {
+ 
+        "integrante": 2,
+ 
+        "estado": "SP",
+ 
+        "idade" : 32,
+ 
+        "pet" : "false",
+ 
+        "music": [
+ 
+            {"name":"My universe", "estilo": "POP"}
+            
+ 
+        ]
+ 
+    },
+    
+
+    {
+ 
+        "integrante": 3,
+ 
+        "estado": "PR",
+ 
+        "idade" : 30,
+ 
+        "pet" : "false",
+ 
+        "music": [
+ 
+            {"name":"Seja pra mim", "estilo": "Reggae"}
+            
+ 
+        ]
+ 
+    },
+
+    {
+ 
+        "integrante": 4,
+ 
+        "estado": "SP",
+ 
+        "idade" : 42,
+ 
+        "pet" : "true",
+ 
+        "music": [
+ 
+            {"name":"Musica da Apresentacao", "estilo": "Bradesco"}
+            
+ 
+        ]
+ 
+    },
+    
+    {
+ 
+        "integrante": 5,
+ 
+        "estado": "SP",
+ 
+        "idade" : 48,
+ 
+        "pet" : "true",
+ 
+        "music": [
+ 
+            {"name":"Varandas", "estilo": "Sertanejo"}
+            
+ 
+        ]
+ 
+    },
+
+    {
+ 
+        "integrante": 6,
+ 
+        "estado": "PR",
+ 
+        "idade" : 37,
+ 
+        "pet" : "false",
+ 
+        "music": [
+ 
+            {"name":"under the bridge", "estilo": "Rock"}
+            
+ 
+        ]
+ 
+    },
+
+    {
+ 
+        "integrante": 7,
+ 
+        "estado": "SP",
+ 
+        "idade" : 37,
+ 
+        "pet" : "true",
+ 
+        "music": [
+ 
+            {"name":"Have You Ever Seen The Rain", "estilo": "Rock"}
+            
+ 
+        ]
+ 
+    }
+ ]
